@@ -1,3 +1,4 @@
+#coding: utf-8
 from puel1 import *
 from time import *
 import threading

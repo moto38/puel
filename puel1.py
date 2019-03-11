@@ -1,3 +1,4 @@
+#coding: utf-8
 from pHeart import *
 from pdisplay import *
 from random import *

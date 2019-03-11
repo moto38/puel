@@ -1,3 +1,4 @@
+#coding: utf-8
 from puel1 import *
 
 p=puel()
